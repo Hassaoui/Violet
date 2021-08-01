@@ -1,0 +1,9 @@
+C:\Windows\system32\NotePad.exe
+C:\Users\cleme\AppData\Local\Programs\Python\Python39\python.exe
+C:\Users\cleme\AppData\Local\Discord\app-0.0.309\Discord.exe
+C:\Users\cleme\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+C:\Program Files\Genshin Impact\Genshin.exe
+C:\Program Files\Jellio\Jellio.exe
+C:\Program Files\Mozilla Firefox\firefox.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+D:\Program Files\LeagueClient.exe

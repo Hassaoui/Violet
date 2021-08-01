@@ -79,4 +79,4 @@ class ledController():
         #Main Loop
         self.root.mainloop()
 
-ledController()
+#ledController()
